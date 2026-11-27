@@ -1,0 +1,2 @@
+# Spacetime-Molecules-A-Pre-Geometric-Model-with-Emergent-Spacetime-and-Gravity
+Spacetime is built from fermionic spinor atoms, left-handed / and mirror , with no ambient space. A pair forms a bosonic molecule X = /, a null vector. Two flavors reconstruct a null tetrad and the Minkowski metric, fixing the light cone up to scale. Dynamics: Wheeler–DeWitt balance T|Ψ⟩=−V|Ψ⟩ between atomic binding V and inter-patch transfer T.
